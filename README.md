@@ -52,7 +52,7 @@ We presented this project at the **Montgomery College STEM Student Research Conf
 
 ```plaintext
 chaos-theory-3d-printing/
-├── attractors/          # Lorenz & Rössler attractor attempts + failure notes
+├── attractors/          # Halvorsen attractor attempts + failure notes
 ├── double_pendulum/     # STL & Fusion files, images, video link
 ├── malkus_waterwheel/   # Full waterwheel model, setup tips, video link
 ├── conference/          # Presentation photo from STEM research conference
