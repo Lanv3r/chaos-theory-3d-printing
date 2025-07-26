@@ -42,7 +42,7 @@ The final model worked well and demonstrated chaotic motion clearly. The wheel r
 
 The behavior continued long after the video clip ended—showing that even a simple system can behave unpredictably for extended periods.
 
-📺 **Watch the demo video here:**  
+ ## Watch the demo video here: 
 [https://www.youtube.com/watch?v=cnNCIptOIRE](https://www.youtube.com/watch?v=cnNCIptOIRE)
 
 ## Attached Files
