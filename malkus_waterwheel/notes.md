@@ -54,4 +54,4 @@ The behavior continued long after the video clip ended—showing that even a sim
 - `Bar.stl` (×8)  
 - `Bucket.stl` (×8)  
 - Fusion 360 `.f3d` files for some parts  
-- `print.jpg` – Photo of the assembled model  
+- `mw_print.jpg` – Photo of the assembled model  
